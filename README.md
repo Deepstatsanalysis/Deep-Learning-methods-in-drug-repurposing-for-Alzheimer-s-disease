@@ -16,13 +16,14 @@ On the **training Data**-
 **precision score**: 0.936 </br>
 **recall score**: 0.810 </br>
 **f1 score**: 0.868 </br>
-
+**Training accuracy**: 87% </br>
 
 On the **test Data**-
 
 **precision score**: 0.997 </br>
 **recall score**: 0.809 </br>
 **f1 score**: 0.893 </br>
+**Test accuracy** : 82% </br>
 **Active Molecules accuracy** : 77.4% </br>
 **Inactive Molecules accuracy** : 81.9% </br>
 
