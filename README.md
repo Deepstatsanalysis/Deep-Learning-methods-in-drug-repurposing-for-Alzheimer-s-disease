@@ -1,16 +1,12 @@
 # Deep-Learning-methods-in-drug-repurposing-for-Alzheimer-s-disease
 
 # Overview
-Predicting potenial new drugs , which can repurposed for curing Alzheimer's Disease. </br>
-We train the model on the pharmacore fingerprints of the Alzheimer's Disease and and </br>
-predict potential drugs from the Drug Bank. The model was able to predict 107 new </br>
-drug molecules. </br>
 
-Having used a highly imabalanced dataset with 1509 active molecules and 153176 inactive </br>
-molecules. We used 80-20 train-test split to validate the performance of the data. And </br>
-also because of the class imbalance it is important to find the accuracy of active and </br>
-inactive molecules seperately in the Test Dataset. We obtained the best results with </br>
-weighted focal loss. </br>
+Predicting potenial new drugs , which can repurposed for curing Alzheimer's Disease. We train the model on the 
+pharmacore fingerprints of the Alzheimer's Disease and and predict potential drugs from the Drug Bank. The model 
+was able to predict 107 new drug molecules. </br>
+
+Having used a highly imabalanced dataset with 1509 active molecules and 153176 inactive molecules. We used 80-20 train-test split to validate the performance of the data. And also because of the class imbalance it is important to find the accuracy of active and inactive molecules seperately in the Test Dataset. We obtained the best results with weighted focal loss. </br>
 
 On the **Training Data**-
 
